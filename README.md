@@ -12,7 +12,7 @@
 
 ---
 
-## 🌟 About Me
+## 🌟 Behind The Terminal
 
 <img align="right" alt="AI Coding" width="400" src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif">
 
@@ -52,7 +52,7 @@ rahul.say_hi()
 
 ---
 
-## 🛠️ Tech Arsenal
+## 💻 Things I Build With
 
 <div align="center">
 
@@ -131,7 +131,7 @@ rahul.say_hi()
 
 ---
 
-## 💼 Experience & Leadership
+## 🧩 My Chapters
 
 <div align="center">
 
