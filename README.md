@@ -92,8 +92,8 @@ rahul.say_hi()
 <b>Flask</b>
 </td>
 <td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=streamlit" width="65" height="65" alt="Streamlit" /><br>
-<b>Streamlit</b>
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="65" height="65" alt="Streamlit" /><br>
+  <b>Streamlit</b>
 </td>
 <td align="center" width="25%">
 <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" /><br>
