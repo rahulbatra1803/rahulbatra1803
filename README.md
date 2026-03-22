@@ -26,7 +26,8 @@ class RahulBatra:
             "Large Language Models (LLMs)",
             "Agentic AI & LangGraph",
             "Generative AI",
-            "Full-Stack AI Apps"
+            "Full-Stack AI Apps",
+            "Scalable MERN Applications"
         ]
         self.current_focus = [
             "LLM Fine-tuning",
@@ -108,7 +109,7 @@ rahul.say_hi()
 
 ### ⚙️ Languages, Tools & Cloud
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,github,gcp,vscode" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,git,github,gcp,vscode" />
 
 </div>
 
@@ -127,6 +128,19 @@ rahul.say_hi()
 | 🤖 Fine-tune Custom LLMs | 🟡 In Progress | High |
 | ⚛️ Master React & Advanced Frontend | 🟡 Learning | Medium |
 
+</div>
+
+---
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rahulbatra03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=fff&rank_icon=github" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulbatra03&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=FF6B6B&currStreakLabel=8B5CF6" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulbatra03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=fff&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=rahulbatra03&custom_title=Contribution%20Graph&bg_color=0D1117&color=8B5CF6&line=FF6B6B&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
